@@ -1,4 +1,4 @@
-package chapter2;
+package calculation;
 import java.text.DecimalFormat;
 import java.util.Scanner;
 public class AgentCommission {
